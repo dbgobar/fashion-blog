@@ -1,0 +1,66 @@
+h1, footer nav a, h4 a{
+  color: red;
+}
+header h2{
+  font-size: 35px;
+}
+header nav a{
+  color: gray;
+  letter-spacing: 1px;
+}
+h2 a{
+  color: black;
+  text-decoration: none;
+  font-size: 40px;
+}
+/*couldnt create less space between h2-a and h3*/
+
+article h3{
+  font-size: 40px;
+}
+*{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+h1{
+  font-size: 55px;
+  padding-top: 40px;
+  line-height: 0.5em;
+}
+
+h4{
+  text-align: right;
+  font-weight: bold;
+}
+/*bold- this didnt work*/
+
+header nav a{
+  color: #e6e6e6;
+  font-size: 20px;
+}
+body{
+  margin: 0 50px 50px 50px;
+}
+.firstletter{
+  font-size: 100px;
+  color: #d9d9d9;
+  float: left;
+  width: 70px;
+  font-family: 'Lato', sans-serif 100;
+}
+
+h3{
+  color: #e6e6e6;
+}
+
+hr{
+  border: 1px solid #d9d9d9;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+nav a{
+  width: 100%;
+}
+/*this didnt work - want to stretch content of line*/
